@@ -13,7 +13,7 @@ It's had the biggest impact on my life of anything I've done. I grew up fast the
 Painting a mural in my Grade 12 year. I spent 12 hours a day in the studio, from 10 a.m. to 10 p.m., painting alongside my peers. It was bittersweet: it was one of the first times I got to share a class with all my fellow visual artists, and it was also the last class we'd ever have together at that school. Four years of intensive arts learning all came down to that final project. The mural now hangs in the school and will be there for years to come, and I'm really proud of it.
 
 ### What didn't I enjoy?
-Honestly, the hardest part was that it ended. My favourite project was also the last class I'd ever have there with my fellow artists, and leaving a community like that was bittersweet. ✏️ *(add anything else you didn't enjoy, e.g. workload or long studio hours)*
+The school was a very protected bubble. It was wonderfully inclusive of gender, sexuality and self-expression, but we weren't really exposed to how harsh the real world can be. I figured that out quickly. What was hard was watching a lot of my friends get shell-shocked after graduation, when they left that "sunshine and rainbows" world and had to face reality without that protection. Leaving a community that close was also bittersweet, since my favourite project was the last class we'd ever have together.
 
 ### Grade: A+
 The most formative experience of my life. I don't know where I'd be without it.

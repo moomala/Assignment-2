@@ -1,3 +1,3 @@
 ## Contact
 
-✏️ *Add the contact info you're comfortable sharing, e.g. your Laurier email or a portfolio link.*
+Want to chat about design, photography or music? Reach me at [pria9291@mylaurier.ca](mailto:pria9291@mylaurier.ca).

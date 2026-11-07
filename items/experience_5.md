@@ -1,7 +1,7 @@
 ## 🌍 Travelling the World
 
 ### What did I do?
-I've travelled across five continents: Africa, Asia, South America, North America and Europe. Australia is the only one I haven't been to yet. Most recently, after the cruise in summer 2026, I stayed in the UK for a while.
+I've travelled across five continents: Africa, Asia, South America, North America and Europe. Australia is the only one I haven't been to yet.
 
 ### When did I do it?
 Throughout my life. My biggest solo trip was backpacking around the UK at 18.
