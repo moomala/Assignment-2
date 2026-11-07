@@ -13,6 +13,7 @@ It's the most consistent thing in my life. Practising for at least an hour every
 Getting my first Manson guitar in Grade 11, right around my mom's 50th birthday. I'd always wanted one, because Manson is owned by Matt Bellamy, the frontman of my favourite band, Muse. I found a cheap one online, and the first time I played it, it felt like true love. It was the first time I'd ever felt truly connected to an instrument. Something clicked, and all of a sudden it felt like I was fluent in the language of guitar. Since then, I've bought one of their high-end, handmade guitars, and I love it so much.
 
 ### What didn't I enjoy?
-Starting out was frustrating. I knew I wanted to play electric, but it was hard to find anyone who would teach a kid that young. When my teacher quit, I lost my momentum and stopped for a few years. ✏️ *(add anything else)*
+I get frustrated with guitar a lot. From Grade 5 to 9 I was learning, but I didn't really improve. Grades 9 to 11 were when I started to see a real difference, and Grade 12 into my first year of university was when the big jump happened. By then I felt I could play at a professional level if I wanted to. Now that I'm technically very good, new things come slowly. I hit a wall and stay stuck there for a long time. This past year I haven't had as much time to play or the setup I'd hoped for, and not seeing the progress I used to see has been demotivating. Guitar is my biggest hobby and it's been with me through so much, but I can be really hard on my own playing, so it's also tied to a lot of frustration.
 
-### Grade: ✏️
+### Grade: A
+Guitar has been a huge part of my life for years, even when it frustrates me.
