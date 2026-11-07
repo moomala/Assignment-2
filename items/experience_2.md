@@ -10,7 +10,7 @@ I started as a young kid and came back seriously around Grade 5. I've played eve
 It's the most consistent thing in my life. Practising for at least an hour every day has taught me discipline, and I can see that it pays off over time. Guitar is my creative outlet, and it has connected me with people who love music as much as I do.
 
 ### What was my favourite memory?
-✏️
+Getting my first Manson guitar in Grade 11, right around my mom's 50th birthday. I'd always wanted one, because Manson is owned by Matt Bellamy, the frontman of my favourite band, Muse. I found a cheap one online, and the first time I played it, it felt like true love. It was the first time I'd ever felt truly connected to an instrument. Something clicked, and all of a sudden it felt like I was fluent in the language of guitar. Since then, I've bought one of their high-end, handmade guitars, and I love it so much.
 
 ### What didn't I enjoy?
 Starting out was frustrating. I knew I wanted to play electric, but it was hard to find anyone who would teach a kid that young. When my teacher quit, I lost my momentum and stopped for a few years. ✏️ *(add anything else)*
