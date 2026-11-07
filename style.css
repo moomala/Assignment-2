@@ -1,0 +1,138 @@
+/* Miranda Priatel — Assignment 2 brand styles */
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Work+Sans:wght@400;500;600&display=swap");
+
+:root {
+  /* Theme colours */
+  --ink: #16131c;          /* deep near-black — nav, footer, text */
+  --paper: #f6f1ea;        /* warm off-white — page background, text on dark */
+  --accent: #e0524a;       /* amp-light red — highlights, buttons */
+  --accent-soft: #f2b134;  /* stage-light gold — hover, secondary accent */
+  --card: #ffffff;         /* experience cards */
+  --muted: #5c5566;        /* secondary text */
+
+  /* Fonts */
+  --heading-font: "Archivo Black", "Arial Black", sans-serif;
+  --body-font: "Work Sans", Arial, sans-serif;
+
+  /* Spacing */
+  --item-gap: 3rem;
+  --card-padding: 2rem 2.5rem;
+  --radius: 14px;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--body-font);
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4,
+.navbar-brand {
+  font-family: var(--heading-font);
+  letter-spacing: 0.02em;
+}
+
+/* ---------- Nav ---------- */
+.site-nav {
+  background-color: var(--ink);
+  border-bottom: 4px solid var(--accent);
+}
+
+.site-nav .navbar-brand {
+  color: var(--paper);
+}
+
+.site-nav .navbar-brand span {
+  color: var(--accent);
+}
+
+.site-nav .nav-link {
+  color: var(--paper);
+  font-weight: 500;
+}
+
+.site-nav .nav-link:hover,
+.site-nav .nav-link:focus {
+  color: var(--accent-soft);
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  text-align: center;
+  padding: 3.5rem 1rem 1.5rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 6vw, 3.8rem);
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  color: var(--muted);
+  font-size: 1.15rem;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+/* ---------- Experience items ---------- */
+main {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 1rem 1.25rem 3rem;
+}
+
+main section {
+  background-color: var(--card);
+  padding: var(--card-padding);
+  margin-bottom: var(--item-gap);   /* whitespace between items */
+  border-radius: var(--radius);
+  border-left: 6px solid var(--accent);
+  box-shadow: 0 6px 24px rgba(22, 19, 28, 0.08);
+  scroll-margin-top: 1.5rem;
+}
+
+main section h2 {
+  font-size: 1.9rem;
+  margin-bottom: 1.25rem;
+}
+
+main section h3 {
+  font-family: var(--body-font);
+  font-weight: 600;
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+}
+
+/* ---------- Buttons ---------- */
+.btn-theme {
+  background-color: var(--accent);
+  color: var(--ink);
+  font-weight: 600;
+  border: none;
+  border-radius: 999px;
+  padding: 0.55rem 1.4rem;
+}
+
+.btn-theme:hover,
+.btn-theme:focus {
+  background-color: var(--accent-soft);
+  color: var(--ink);
+}
+
+/* ---------- Footer ---------- */
+footer {
+  background-color: var(--ink);
+  color: var(--paper);
+  text-align: center;
+  padding: 2rem 1rem;
+  border-top: 4px solid var(--accent);
+}
+
+footer p {
+  margin-bottom: 1rem;
+}
