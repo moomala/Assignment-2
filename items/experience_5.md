@@ -4,7 +4,7 @@
 I've travelled across five continents: Africa, Asia, South America, North America and Europe. Australia is the only one I haven't been to yet. Most recently, after the cruise in summer 2026, I stayed in the UK for a while.
 
 ### When did I do it?
-Throughout my life. My biggest solo trip was backpacking the UK at 18, and I went back to the UK most recently after the cruise in summer 2026.
+Throughout my life. My biggest solo trip was backpacking around the UK at 18.
 
 ### What was good about it?
 ✏️
